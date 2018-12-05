@@ -1,3 +1,4 @@
+cd week-1
 Hi! 👋
 
 You've opened the IDE Sandbox. 🎉
